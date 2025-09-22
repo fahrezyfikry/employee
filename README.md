@@ -40,7 +40,7 @@ Implementasi perhitungan pajak untuk pegawai tetap dengan tarif progresif:
 - ≤ 54 juta: 5%
 - ≤ 250 juta: 15%
 - ≤ 500 juta: 25%
-- > 500 juta: 30%
+- \> 500 juta: 30%
 
 #### `ContractTax`
 Implementasi perhitungan pajak untuk pegawai kontrak dengan tarif flat 2.5%.
